@@ -1,5 +1,7 @@
 # .NET 開発テクノロジ入門 2016年版 Xamarin の章のサンプルプロジェクトです。
 
+こんにちは。.NET 開発テクノロジ入門 2016年版 Xamarin の章の著者、エクセルソフトの田淵（[@ytabuchi](https://twitter.com/ytabuchi)）です。本章のおまけとして、Xamarin.Formsで2015年12月現在デプロイできる各種プロジェクトをサンプルプロジェクトとしてアップしました。NuGetパッケージの復元など少し処理が必要になりますので、以下に手順を記載します。
+
 ## ダウンロード後の手順
 
 zip をダウンロードするか［Clone］して適当なフォルダに展開して`HelloXamarinForms.sln`を開きます。  
@@ -47,7 +49,7 @@ Windows 10のビルド環境がなく、Windows 8.1などからビルドする�
 <img src="https://github.com/ytabuchi/NETTech16/blob/master/Screenshots/08-5%20Remote%20Debug.png" width="300" />  
 
 Windows 10 タブレット（タブレットモード）での実行  
-<img src="https://github.com/ytabuchi/NETTech16/blob/master/Screenshots/06-2%20Windows10%20Tablet%20screenshot.png" width="300" />
+<img src="https://github.com/ytabuchi/NETTech16/blob/master/Screenshots/06-2%20Windows10%20Tablet%20screenshot.png" width="450" />
 
 Windows 10 Mobileでの実行  
 <img src="https://github.com/ytabuchi/NETTech16/blob/master/Screenshots/06-3%20Windows10%20Mobile%20screenshot.png" width="300" />
@@ -61,6 +63,8 @@ Windows 10 Mobileでの実行
 <img src="https://github.com/ytabuchi/NETTech16/blob/master/Screenshots/11%20WP81%20WinRT.png" width="300" />
 
 Xamarin.FormsでiOS／Android／UWP／Windows Phone／Windows Storeの様々なOSにアプリが作成できるのがお分かりいただけるかと思います。
+
+評価版で色々試してみていただけると嬉しいです。
 
 以上です。
 
