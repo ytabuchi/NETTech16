@@ -59,7 +59,7 @@ Windows 10 Mobileでの実行
 <img src="./Screenshots/09_WindowsStore_ss.png" width="450" />
 
 最後にWindows Phone 8.0（Sliverlight）プロジェクトと、Windows Phone 8.1（WinRT）をビルドしてみましょう。  
-<img src="./Screenshots/10_WP8Silverlight_ss.pn" width="300" /> 
+<img src="./Screenshots/10_WP8Silverlight_ss.png" width="300" /> 
 <img src="./Screenshots/11_WP81WinRT_ss.png" width="300" />
 
 Xamarin.FormsでiOS／Android／UWP／Windows Phone／Windows Storeの様々なOSにアプリが作成できるのがお分かりいただけるかと思います。
