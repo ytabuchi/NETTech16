@@ -2,17 +2,14 @@
 
 ## ダウンロード後の手順
 
-zip をダウンロードするか［Clone］して適当なフォルダに展開して`sln`を開きます。  
+zip をダウンロードするか［Clone］して適当なフォルダに展開して`HelloXamarinForms.sln`を開きます。  
 <img src="https://github.com/ytabuchi/NETTech16/blob/master/Screenshots/01%20Open.png" width="450" />
 
 ソリューションフォルダを右クリックして、［NeGetパッケージの復元］をクリックします。
 <img src="https://github.com/ytabuchi/NETTech16/blob/master/Screenshots/02%20Restore%20NuGet%20Package.png" width="450" />
 
-
-<img src="https://github.com/ytabuchi/NETTech16/blob/master/Screenshots/03-1%20Click%20restored%20package.png" width="450" />
-
-
-<img src="https://github.com/ytabuchi/NETTech16/blob/master/Screenshots/03-2%20Click%20restored%20package.png" width="450" />
+復元が完了しても、`HelloXamarinForms`プロジェクトの［参照］から［！］アイコンが消えないので、ファイルをクリックして［！］を消します。
+<img src="https://github.com/ytabuchi/NETTech16/blob/master/Screenshots/03-1%20Click%20restored%20package.png" width="300" /> <img src="https://github.com/ytabuchi/NETTech16/blob/master/Screenshots/03-2%20Click%20restored%20package.png" width="300" />
 
 
 <img src="https://github.com/ytabuchi/NETTech16/blob/master/Screenshots/04%20Android.png" width="450" />
